@@ -1,0 +1,23 @@
+{
+  "name": "typescript-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10shi10ma/typescript-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10shi10ma/typescript-environment/issues"
+  },
+  "homepage": "https://github.com/10shi10ma/typescript-environment#readme"
+}
